@@ -8,7 +8,7 @@ td, th {
 ## Assistant Director of Instructional Technology
 ### Juniata College
 
-| e-Learning | Open Education Resources | Streaming Technologies |
+| [[e-Learning]] | [[Open Education Resources]] | [[Streaming Technologies]] |
 
 --- 
 
