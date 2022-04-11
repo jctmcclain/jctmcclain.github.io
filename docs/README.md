@@ -2,6 +2,10 @@
 ## Assistant Director of Instructional Technology
 ### Juniata College
 
+| e-Learning | Open Education Resources | Streaming Technologies |
+
+--- 
+
 # e-Learning
 
 Project information will be added here 
