@@ -1,3 +1,9 @@
+<style>
+td, th {
+   border: none!important;
+}
+</style>
+
 # Tom McClain 
 ## Assistant Director of Instructional Technology
 ### Juniata College
