@@ -2,12 +2,15 @@
 ## Assistant Director of Instructional Technology
 ### Juniata College
 
-# Something amazing
+# e-Learning
 
-This is a sample site with markdown
+Project information will be added here 
 
-This is more sample stuff 
+# Open Education Resources
 
-# End of the line 
+Additional information on OER information
 
-Text
+# Streaming Technologies
+
+Additional information to be added here 
+
