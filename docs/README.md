@@ -4,9 +4,9 @@ table, td, th {
 }
 </style>
 
-# Tom McClain 
-## Assistant Director of Instructional Technology
-### Juniata College
+# Personal Statement
+
+Statement addeded here
 
 ---
 
