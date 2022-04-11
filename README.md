@@ -1,13 +1,5 @@
-# Tom McClain 
-## Assistant Director of Instructional Technology
-### Juniata College
+# Placeholder
 
-# Something amazing
+## Placeholder for Github Pages 
 
-This is a sample site with markdown
 
-This is more sample stuff 
-
-# End of the line 
-
-Text
