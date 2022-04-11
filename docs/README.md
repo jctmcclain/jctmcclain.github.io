@@ -8,11 +8,11 @@ table, td, th {
 ## Assistant Director of Instructional Technology
 ### Juniata College
 
-| [e-Learning](#eln) | [Open Education Resources](#oer) | [Streaming Technologies](#stream) |
+| [Learning Strategies](#learning-strategies) | [Open Education Resources](#open-education-resources) | [Streaming Technologies](#streaming-technologies) |
 
 --- 
 
-# e-Learning
+# Learning Strategies
 
 Project information will be added here 
 
