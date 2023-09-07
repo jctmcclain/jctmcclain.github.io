@@ -2,6 +2,9 @@
 
 ## Containers
 
+container is a construct used to group related values together and contains references to other objects instead of data
+
+
 ### String 
 * String literal - string value  specified in the source code of a program 
 
@@ -13,12 +16,29 @@ The string type is a special construct known as a sequence type  follows order 
 | 0      | 1     | 2      | 3      | 4     |
 
 
-### Tuples
+
 
 ### Sets 
 
 
+
 ### Lists
 
+* list is a container which holds elements
+* elements can different variable type
+
+```python
+my_list = [10, 'bw']
+print(my_list)
+```
+
+#### methods
+pop()
+remove()
+append()
+
+The type of an object also determines the mutability of an object. Mutability indicates whether the object's value is allowed to be changed. Integers and strings are immutable; meaning integer and string values cannot be changed. Modifying the values with assignment statements results in new objects being created and the names bound to the new object
+
+### Tuples
 
 ### Dictionaries
