@@ -1,7 +1,9 @@
 # CS110
 
-## Containers
 
+# Chapter 3 - Notes
+
+## Containers
 container is a construct used to group related values together and contains references to other objects instead of data
 
 
