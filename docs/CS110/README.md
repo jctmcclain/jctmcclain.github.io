@@ -106,3 +106,5 @@ del players['Tom McClain']
 print(players)
 
 ```
+
+A dictionary is mutable, so entries can be added, modified, and deleted as necessary by a programmer.
