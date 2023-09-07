@@ -16,12 +16,6 @@ The string type is a special construct known as a sequence type  follows order 
 | 0      | 1     | 2      | 3      | 4     |
 
 
-
-
-### Sets 
-
-
-
 ### Lists
 
 * list is a container which holds elements
@@ -44,7 +38,18 @@ The type of an object also determines the mutability of an object. Mutability in
 ```python
 from collections import namedtuple
 cs_student = namedtuple('Student',['student_name','student_poe','student_pronouns','student_interests'])
-tom_mcclain = Student('Tom McClain','Geology','he / him / his','Knot Tying')
+tom_mcclain = cs_student('Tom McClain','Geology','he / him / his','Knot Tying')
+print(tom_mcclain)
 ```
+### Sets 
+
+```python
+# Create a set using the set() function.
+nums1 = set([1, 2, 3])
+
+# Create a set using a set literal.
+nums2 = { 7, 8, 9 }
+```
+
 
 ### Dictionaries
