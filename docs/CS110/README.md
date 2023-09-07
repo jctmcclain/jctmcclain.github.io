@@ -28,7 +28,9 @@ print(my_list)
 
 #### methods
 pop()
+
 remove()
+
 append()
 
 The type of an object also determines the mutability of an object. Mutability indicates whether the object's value is allowed to be changed. Integers and strings are immutable; meaning integer and string values cannot be changed. Modifying the values with assignment statements results in new objects being created and the names bound to the new object
