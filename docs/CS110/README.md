@@ -13,3 +13,12 @@ The string type is a special construct known as a sequence type  follows order 
 | 0      | 1     | 2      | 3      | 4     |
 
 
+### Tuples
+
+### Sets 
+
+
+### Lists
+
+
+### Dictionaries
