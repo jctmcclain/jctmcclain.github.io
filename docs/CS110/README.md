@@ -43,6 +43,10 @@ cs_student = namedtuple('Student',['student_name','student_poe','student_pronoun
 tom_mcclain = cs_student('Tom McClain','Geology','he / him / his','Knot Tying')
 print(tom_mcclain)
 ```
+
+* pair of strings that doesn't change
+* tuples cannot be modified.
+
 ### Sets 
 
 ```python
@@ -52,6 +56,31 @@ nums1 = set([1, 2, 3])
 # Create a set using a set literal.
 nums2 = { 7, 8, 9 }
 ```
+#### Coffee Example
 
+```python 
+coffees = set(['americano','latte','espresso'])
+print(coffees)
+
+# Add - to set 
+coffees.add('cappuccino')
+print(coffees)
+
+# sorted() -  sorts the set
+print(sorted(coffees))
+
+
+```
 
 ### Dictionaries
+
+Dictionary entries are ordered by position.
+
+A dictionary can provide a map
+
+#### anatomy of dictionary
+
+Curly braces { } are used to build a dictionary.
+
+| object type | dict         | 
+|             | key   value  | 
