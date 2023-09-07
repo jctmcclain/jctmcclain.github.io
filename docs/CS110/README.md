@@ -82,5 +82,27 @@ A dictionary can provide a map
 
 Curly braces { } are used to build a dictionary.
 
-| object type | dict         | 
-|             | key   value  | 
+| object type    | dictionaru       | 
+| abbreviated as | dict            |
+| consists of    | key - value pair| 
+
+```python 
+
+players = {
+    'Lionel Messi': 10,
+    'Cristiano Ronaldo': 7
+}
+
+print(players)
+
+# Adds a player and player number
+players['Tom McClain'] = 45
+
+print(players)
+
+# Removes a player with the key - 'Tom McClain'
+del players['Tom McClain']
+
+print(players)
+
+```
