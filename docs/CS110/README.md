@@ -41,4 +41,10 @@ The type of an object also determines the mutability of an object. Mutability in
 
 ### Tuples
 
+```python
+from collections import namedtuple
+cs_student = namedtuple('Student',['student_name','student_poe','student_pronouns','student_interests'])
+tom_mcclain = Student('Tom McClain','Geology','he / him / his','Knot Tying')
+```
+
 ### Dictionaries
