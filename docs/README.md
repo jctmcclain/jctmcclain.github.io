@@ -18,9 +18,11 @@ Statement addeded here
 
 # Learning Strategies
 
-My research interests include the use of design concepts and visual learning strategies to improve student learning.  I have a particular interest in  visual note taking strategies.  
+My research interests include the use of:
+* human-centered design principles to improve student outcomes
+* visual learning strategies to improve student retention/learning; with a particular emphasis on visual note taking strategies.  
+* learning analytics generated via xAPI to guide instruction   
 
-Another area of focus is the use learning analytics generated via xAPI to inform and guide learning.   
 
 [Site Navigator](#site-navigator)
 
@@ -33,6 +35,12 @@ I have also been involved with several the Open Education Resources initiatives 
 
 # Streaming Technologies
 
-Passion project
+Throughout my professional career, my role has been closely tied to the world of professional audio-visual world.  I have nearly 25 years of working experience in the video conferencing/video streaming industry:  consulting, design, implementation,  and support.
+My current interests include the use audio-video over IP (AVoIP) across campus networks. 
+Areas of interest include: 
+* NewTek Network Device Interface (NDI) technology
+* Audiante Dante technology
+* SRT connections across multiple subnets 
+* Streamlining BlackMagic Designs ATEM series DaVinci Resolve Workflows
 
 [Site Navigator](#site-navigator)
