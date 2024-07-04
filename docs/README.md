@@ -1,7 +1,6 @@
 <style>
 table, td, th {
    border: none!important;
-   white-space:nowrap;
 }
 </style>
 
