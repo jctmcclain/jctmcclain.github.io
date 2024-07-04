@@ -6,7 +6,7 @@ table, td, th {
 
 # Personal Statement
 
-Statement addeded here
+Educational professional interested in connecting learners to learning experiences using instructional technology.   
 
 ---
 
@@ -22,7 +22,8 @@ My research interests include the use of:
 
 * human-centered design principles to improve student outcomes
 * visual learning strategies to improve student retention/learning; particular emphasis on visual note taking strategies.  
-* learning analytics generated using xAPI in order to guide instruction   
+* learning analytics generated using xAPI in order to guide instruction 
+* rich-media enhanced learning object to support struggling learners  
 
 
 [Site Navigator](#site-navigator)
