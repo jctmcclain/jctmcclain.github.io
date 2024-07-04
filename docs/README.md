@@ -4,7 +4,7 @@ table, td, th {
 }
 </style>
 
-![Juniata College logo](https://jctmcclain.github.io/assets/images/500x500-whitebkg.png)
+![Juniata College logo](/docs/assets/images/500x500-whitebkg.png)
 
 # Personal Statement
 
