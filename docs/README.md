@@ -53,6 +53,6 @@ Specific areas of focus include:
 
 [Site Navigator](#site-navigator)
 
-|      |       | 
-|:---- | ----: | 
+| Juniata College     |  Office Info     | 
+|:----                |             ----:| 
 | ![Juniata College logo](../assets/images/500x500-whitebkg.png) | Statton Learning Commons<br/>Digital Learning Suite<br/>Office 214B |
