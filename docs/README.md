@@ -53,4 +53,4 @@ Specific areas of focus include:
 
 [Site Navigator](#site-navigator)
 
-![Juniata College logo](/docs/assets/images/500x500-whitebkg.png)
+![Juniata College logo](../assets/images/500x500-whitebkg.png)
