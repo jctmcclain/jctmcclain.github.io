@@ -4,6 +4,8 @@ table, td, th {
 }
 </style>
 
+![Book logo](https://jctmcclain.github.io/assets/500x500-whitebkg.png)
+
 # Personal Statement
 
 Statement addeded here
