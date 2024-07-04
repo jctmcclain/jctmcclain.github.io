@@ -21,26 +21,30 @@ Statement addeded here
 My research interests include the use of:
 
 * human-centered design principles to improve student outcomes
-* visual learning strategies to improve student retention/learning; with a particular emphasis on visual note taking strategies.  
-* learning analytics generated via xAPI to guide instruction   
+* visual learning strategies to improve student retention/learning; particular emphasis on visual note taking strategies.  
+* learning analytics generated using xAPI in order to guide instruction   
 
 
 [Site Navigator](#site-navigator)
 
 # Open Education Resources
 
-I have also been involved with several the Open Education Resources initiatives which have attempted to remove technology and access barriers from learning environments. 
+* Use of Open Education Resources initiatives in order to remove technology and access barriers from learning environments. 
 
 
 [Site Navigator](#site-navigator)
 
 # Streaming Technologies
 
-Throughout my professional career, my role has been closely tied to the world of professional audio-visual world.  I have nearly 25 years of working experience in the video conferencing/video streaming industry:  consulting, design, implementation,  and support.
+Throughout my professional career, my role has been closely intertwined with the professional audio-visual world.   
+
+I have nearly 25 years of work experience in the video conferencing/video streaming industry including:  consulting, design, implementation, and support of these technologies.
+
+Due to the AV convergence (on-going), I've had entensive experience in AV integration across multiple market sectors. 
 
 My current interests include the use audio-video over IP (AVoIP) across campus networks. 
 
-Areas of interest include: 
+Specific areas of focus include: 
 
 * NewTek Network Device Interface (NDI) technology
 * Audiante Dante technology
