@@ -6,7 +6,7 @@ table, td, th {
 
 # Personal Statement
 
-Educational professional interested in connecting learners to learning experiences using instructional technology.   
+Educational professional focused on connecting learners to authentic learning experiences through the use of instructional technology strategies.   
 
 ---
 
