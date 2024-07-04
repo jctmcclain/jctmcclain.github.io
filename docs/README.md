@@ -1,6 +1,7 @@
 <style>
 table, td, th {
-   border: none!important;no-wrap;
+   border: none!important;
+   white-space:nowrap;
 }
 </style>
 
@@ -52,6 +53,7 @@ Specific areas of focus include:
 * Streamlining BlackMagic Designs ATEM series DaVinci Resolve Workflows
 
 [Site Navigator](#site-navigator)
+
 
 | Juniata College     |  Office Info     | 
 |:----                |             ----:| 
