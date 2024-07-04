@@ -4,8 +4,6 @@ table, td, th {
 }
 </style>
 
-![Juniata College logo](/docs/assets/images/500x500-whitebkg.png)
-
 # Personal Statement
 
 Statement addeded here
@@ -54,3 +52,5 @@ Specific areas of focus include:
 * Streamlining BlackMagic Designs ATEM series DaVinci Resolve Workflows
 
 [Site Navigator](#site-navigator)
+
+![Juniata College logo](/docs/assets/images/500x500-whitebkg.png)
